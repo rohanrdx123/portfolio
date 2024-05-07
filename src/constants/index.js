@@ -20,25 +20,25 @@ export const socialIcons = [
   {
     name: "github",
     class: " fa-brands fa-github",
-    link: "https://github.com/its-roshanojha",
+    link: "https://github.com/rohanrdx123",
     text: "Fork My Repos On Github",
   },
   {
     name: "linkedin",
     class: " fa-brands fa-linkedin",
-    link: "https://www.linkedin.com/in/roshanojha/",
+    link: "https://www.linkedin.com/in/rohandixit1999/",
     text: "Connect On LinkedIn",
   },
   {
     name: "email",
     class: "fa-solid fa-envelope",
-    link: "mailto:its.roshanojha@example.com",
+    link: "mailto:rohandixit67@gmail.com",
     text: "Send me an Email",
   },
   {
-    name: "youtube",
-    class: "fa-brands fa-youtube",
-    link: "https://www.youtube.com/channel/UCb2YxqW4tBbPQEniY5oZdOw",
+    name: "kaggle",
+    class: "fa-brands fa-kaggle",
+    link: "https://www.kaggle.com/rohandixit",
     text: "Subscribe on YouTube",
   },
 ];
@@ -184,16 +184,13 @@ export const project = [
 
 export const techStack = [
   {
-    className: "fa-brands fa-html5",
+    className: "fa-brands fa-python",
   },
   {
-    className: "fa-brands fa-css3",
+    className: "fa-brands fa-php",
   },
   {
-    className: "fa-brands fa-js",
-  },
-  {
-    className: "fa-brands fa-react",
+    className: "fa-brands fa-aws",
   },
   {
     className: "fa-brands fa-git-alt",
@@ -205,9 +202,9 @@ export const techStack = [
     className: "fa-brands fa-docker",
   },
   {
-    src: materialuiicon,
+    className: "fa-brands fa-docker",
   },
   {
-    className: "fa-brands fa-bootstrap",
+    className: "fa-brands fa-html5",
   },
 ];

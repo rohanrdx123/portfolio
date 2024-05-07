@@ -129,7 +129,7 @@ const Contact = () => {
               </h1>
               <a href="mailto:its.roshanojha@gmail.com">
                 <p className="my-5 text-center underline underline-offset-8 font-sans-serif text-xl tracking-widest	">
-                <span style={{"color" : "#fe5353"}}>its.roshanojha@gmail.com</span>
+                <span style={{"color" : "#fe5353"}}>rohandixit67@gmail.com</span>
                 </p>
               </a>
             </div>
