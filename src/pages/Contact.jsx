@@ -12,22 +12,22 @@ const Contact = () => {
       exit={{ x: "-100%" }}
     >
       <Helmet>
-        <title>Contact Me - Roshan Ojha</title>
+        <title>Contact Me - Rohan Dixit</title>
         <meta
           name="description"
-          content="Get in touch with Roshan Ojha. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
+          content="Get in touch with Rohan Dixit. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
         />
-        <meta property="og:title" content="Contact Me - Roshan Ojha" />
+        <meta property="og:title" content="Contact Me - Rohan Dixit" />
         <meta
           property="og:description"
-          content="Get in touch with Roshan Ojha. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
+          content="Get in touch with Rohan Dixit. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Contact Me - Roshan Ojha" />
+        <meta name="twitter:title" content="Contact Me - Rohan Dixit" />
         <meta
           name="twitter:description"
-          content="Get in touch with Roshan Ojha. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
+          content="Get in touch with Rohan Dixit. Schedule a meeting, send a message, or reach out through various social media channels. Feel free to write an email directly to hi@rajaryan.work"
         />
       </Helmet>
 

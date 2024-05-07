@@ -13,24 +13,24 @@ const About = () => {
       exit={{ x: "-100%" }}
     >
       <Helmet>
-        <title>About Me - Roshan Ojha</title>
+        <title>About Me - Rohan Dixit</title>
         <meta
           name="description"
-          content="Roshan Ojha | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda) "
+          content="Rohan Dixit | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda) "
         />
         {/* Open Graph tags */}
-        <meta property="og:title" content="About Me - Roshan Ojha" />
+        <meta property="og:title" content="About Me - Rohan Dixit" />
         <meta
           property="og:description"
-          content="Dive into the profile of Roshan Ojha, Roshan Ojha | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda)"
+          content="Dive into the profile of Rohan Dixit, Rohan Dixit | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda)"
         />
 
         {/* Twitter Card tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="About Me - Roshan Ojha" />
+        <meta name="twitter:title" content="About Me - Rohan Dixit" />
         <meta
           name="twitter:description"
-          content="Roshan Ojha | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda)"
+          content="Rohan Dixit | Software Developer || B.E in Electronics and Telecommunication Engineering || JavaScript || MERN || SQL || Docker || AWS (EC2, RDS, IAM, Lambda)"
         />
         <meta name="twitter:image" content={roshanImg} />
       </Helmet>
@@ -43,7 +43,7 @@ const About = () => {
             <p className=" ">
               I am{" "}&nbsp;
               <span className="text-transparent bg-clip-text bg-gradient-to-br from-[#EF4444] to-[#2f2e41] text-ellipsis">
-                Roshan Ojha. &nbsp;
+                Rohan Dixit. &nbsp;
               </span>
               I'm a Full Stack Developer. I love to learn and work on new technologies. <br /> I find Web Dev fun.
               <br />
@@ -67,7 +67,7 @@ const About = () => {
             <img
               src={roshanImg}
               className=" w-full ease-in aspect-square object-cover rounded-[50%]"
-              alt="Roshan Ojha"
+              alt="Rohan Dixit"
             />
           </div>
         </div>

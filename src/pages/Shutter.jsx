@@ -12,10 +12,10 @@ const Shutter = () => {
       exit={{ x: "-100%" }}
     >
       <Helmet>
-        <title>Shutterbug - Photography Collection by Roshan Ojha</title>
+        <title>Shutterbug - Photography Collection by Rohan Dixit</title>
         <meta
           name="description"
-          content="Explore a collection of photos taken by Roshan Ojha in Shutterbug. Stay tuned for captivating visual moments."
+          content="Explore a collection of photos taken by Rohan Dixit in Shutterbug. Stay tuned for captivating visual moments."
         />
       </Helmet>
 
@@ -28,7 +28,7 @@ const Shutter = () => {
         </span>
       </h1>
       <h2 className="md:text-3xl text-xl text-center font-bold text-white/60 ">
-        Explore a captivating collection of photos taken by Roshan Ojha.
+        Explore a captivating collection of photos taken by Rohan Dixit.
         <br /> Stay tuned for more visual moments.
       </h2>
       <h2 className="md:text-xl text-lg text-center font-bold text-white/30 ">

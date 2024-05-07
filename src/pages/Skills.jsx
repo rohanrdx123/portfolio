@@ -45,7 +45,7 @@ const Skills = () => {
       exit={{ x: "-100%" }}
     >
       <Helmet>
-        <title>My Tech Skills - Roshan Ojha</title>
+        <title>My Tech Skills - Rohan Dixit</title>
       </Helmet>
       
       <div className="md:w-[70vw] w-[90vw] md:h-[80vh] h-[90vh] sm:p-10 p-5">

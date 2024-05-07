@@ -15,16 +15,16 @@ const Hero = () => {
       exit={{ x: "-100%" }}
     >
       <Helmet>
-        <title>Roshan Ojha - Web Developer</title>
+        <title>Rohan Dixit - Web Developer</title>
         <meta
           name="description"
-          content="Hi, I'm Roshan Ojha, a web developer passionate `about `creating innovative web solutions. Connect with me to discuss web development and explore my projects."
+          content="Hi, I'm Rohan Dixit, a web developer passionate `about `creating innovative web solutions. Connect with me to discuss web development and explore my projects."
         />
         {/* Open Graph tags */}
-        <meta property="og:title" content="Roshan Ojha - Web Developer" />
+        <meta property="og:title" content="Rohan Dixit - Web Developer" />
         <meta
           property="og:description"
-          content="Hi, I'm Roshan Ojha, a web developer passionate about creating innovative web solutions. Connect with me to discuss web development and explore my projects."
+          content="Hi, I'm Rohan Dixit, a web developer passionate about creating innovative web solutions. Connect with me to discuss web development and explore my projects."
         />
         <meta property="og:image" content={HeroImg} />
         <meta property="og:type" content="website" />
@@ -32,7 +32,7 @@ const Hero = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Hi, I'm Roshan Ojha, a web developer passionate about creating innovative web solutions. Connect with me to discuss web development and explore my projects."
+          content="Hi, I'm Rohan Dixit, a web developer passionate about creating innovative web solutions. Connect with me to discuss web development and explore my projects."
         />
         <meta name="twitter:image" content={HeroImg} />
       </Helmet>
@@ -43,7 +43,7 @@ const Hero = () => {
           <span
             className={`text-transparent bg-clip-text bg-gradient-to-br from-[#EF4444] to-[#2f2e41] text-ellipsis`}
           >
-            Roshan Ojha
+            Rohan Dixit
           </span>
         </h1>
         <h2>
@@ -109,7 +109,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="self-img">
-        <img className="w-[70vw] lg:w-96" src={HeroImg} alt="Roshan Ojha" />
+        <img className="w-[70vw] lg:w-96" src={HeroImg} alt="Rohan Dixit" />
       </div>
     </motion.div>
   );

@@ -65,24 +65,24 @@ const Projects = () => {
       exit={{ x: "-100%" }}
     >
        <Helmet>
-        <title>My Projects - Roshan Ojha</title>
+        <title>My Projects - Rohan Dixit</title>
         <meta
           name="description"
-          content="Explore a collection of projects developed by Roshan Ojha. From web development to open source contributions, discover the diverse projects that showcase Raj's skills and expertise."
+          content="Explore a collection of projects developed by Rohan Dixit. From web development to open source contributions, discover the diverse projects that showcase Raj's skills and expertise."
         />
         {/* Open Graph tags */}
-        <meta property="og:title" content="My Projects - Roshan Ojha" />
+        <meta property="og:title" content="My Projects - Rohan Dixit" />
         <meta
           property="og:description"
-          content="Explore a collection of projects developed by Roshan Ojha. From web development to Freelance projects, discover the diverse projects that showcase Raj's skills and expertise."
+          content="Explore a collection of projects developed by Rohan Dixit. From web development to Freelance projects, discover the diverse projects that showcase Raj's skills and expertise."
         />
     
         {/* Twitter Card tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="My Projects - Roshan Ojha" />
+        <meta name="twitter:title" content="My Projects - Rohan Dixit" />
         <meta
           name="twitter:description"
-          content="Explore a collection of projects developed by Roshan Ojha. From web development to open source contributions, discover the diverse projects that showcase Raj's skills and expertise."
+          content="Explore a collection of projects developed by Rohan Dixit. From web development to open source contributions, discover the diverse projects that showcase Raj's skills and expertise."
         />
         <meta name="twitter:image" content="https://rajaryan.work/banner.png" />
       </Helmet>
